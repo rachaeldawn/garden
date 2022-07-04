@@ -1,5 +1,7 @@
 ---
 title: "I Am Rachael"
+tags:
+  - trans
 ---
 
 I am Rachael. I came to terms with who I am, and accepted myself in January of 2021. I battled with myself for as long as I can remember on my identity, but there's some key things that are not so obvious that I want to share. One thing is for sure, I am as certain as I have ever been about anything with this process of transitioning, but that doesn't mean I don't have "doubts". These doubts are a result of my story, and I want to share this element of myself with the world in case you know someone who is following a path like my own. 
