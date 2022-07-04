@@ -1,13 +1,8 @@
 ---
 title: "I Am Rachael"
-tags:
-  - transgender
-  - trans
 ---
 
-# I Am Rachael
-
-I am Rachael. I came to terms with who I am, and accepted myself in January of this year (2021). I battled with myself for as long as I can remember on my identity, but there's some key things that are not so obvious that I want to share. One thing is for sure, I am as certain as I have ever been about anything with this process of transitioning, but that doesn't mean I don't have "doubts". These doubts are a result of my story, and I want to share this element of myself with the world in case you know someone who is following a path like my own. 
+I am Rachael. I came to terms with who I am, and accepted myself in January of 2021. I battled with myself for as long as I can remember on my identity, but there's some key things that are not so obvious that I want to share. One thing is for sure, I am as certain as I have ever been about anything with this process of transitioning, but that doesn't mean I don't have "doubts". These doubts are a result of my story, and I want to share this element of myself with the world in case you know someone who is following a path like my own. 
 
 Everyone's journey is their own and I do not claim to speak on behalf of anyone but myself. My journey is atypical from what *I have seen*, but I haven't met a lot of trans people. From the stories I have read, I *feel* my path is different than the "obvious" situations where someone is trans. It is this reason that I want to share, because it's not a one size fits all thing. People in my situation who weren't obvious would sooner stay silent than share because they're scared, just like I was.
 
@@ -17,9 +12,9 @@ If I trace back throughout my life, I can see the million signs that were *so ob
 
 My mother told me that when I was a kid, I used to get frustrated that I couldn't join in when she would do my sisters' nail polish but not mine. She compromised and gave me a clear coat. When I was young, I would want to wear girl's clothing and have always been drawn to it. The first time I tried something on, I wore it for a day before I realized that my mother would find out. I *knew* that she would think differently of me if she found out I wore that. So I stuffed it inside my pants, and naturally she found it while washing my clothes. When my mother questioned me I was so embarrassed that I just wanted it to be done and over with. My sister Jada and I used to go digging through our mother's dresser to try her clothes on as well. It was fun for us, but these were the first signs that showed themselves. I was 4-7 with the nail polish, and I was 7-8 with the clothing events. I knew then something was up but I didn't know what it was.
 
-<aside>
-💡 An interesting side note, I always found it rather irritating that my mother had 3 girls and 1 boy. I always thought it would just make more sense to have 4 girls.
-</aside>
+> An interesting side note:
+> 
+> I always found it rather irritating that my mother had 3 girls and 1 boy. I always thought it would just make more sense to have 4 girls.
 
 Here's the thing though: I wasn't really interested in "girly" things by default. Even to this day I'm not a super femme person and I don't want to be. It's not who I am. I liked Lego, video games, super powers / heroes, computers, stuff like that. But then I liked shows like Sailor Moon, Zoboomafoo, etc, which most people would look at and think instantly that it was geared for little girls. I had no problems playing with dolls and barbies because the dolls would simply be a delegate for me. I would want to play out scenarios and be "older", a desire that *everyone* who knew me as a child is very familiar with. Nothing really concrete that says "yes, something is up with this child".
 
@@ -91,3 +86,5 @@ What if it is? I'm still happy, and knowing that I can me adds onto it. I don't 
 I wrote this in part because I feel like half of the battle trans people experience is that we aren't understood. We aren't understood because there's no information out there to understand, and the information that is out there is nearly impossible for the average person to stumble upon. We make up less than 1% of the population (estimated [0.6% in the USA](https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/)), and because of that we are rare and unseen. It's made even more difficult because most of us *don't want to be seen*. We just want to be seen as the person we are, not as "a trans woman" or "a trans man", but as a man or a woman.
 
 "I can't understand what you feel" or "I can't understand what you face" is perfectly understandable, and it makes absolute sense to me. This is a sentiment shared by the majority of those whose generation comes before my own, and I can't blame them because the world they grew up in would chew people like me up, spit them out, and kill them. Suicide risk factors for trans people are *stupidly high*, and I'd bet anything that a huge contributor is lack of acceptance stemming from lack of understanding. Trans people [attempt suicide at all stages](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317390/) of transition and are [2x more likely to commit suicide with 22-44% having attempted it already](https://www.suicideinfo.ca/resource/transgender-people-suicide/). These are numbers coming from *today's day and age,* not when things were less progressive.
+
+[[notes/transgender/|Trans]]
