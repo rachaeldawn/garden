@@ -3,8 +3,12 @@ enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
 enableSPA: true
+enableFooter: true
 enableContextualBacklinks: true
+enableRecentNotes: false
 description:
   Rachael's corner of the internet where I talk about programming, philosophy, mental health, and my hobbies!
 page_title:
