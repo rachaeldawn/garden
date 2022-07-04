@@ -1,9 +1,9 @@
-- Programming
-	- [ ] Visual Blocking
-	- [ ] How to get started
-	- [ ] Code expressiveness
-	- [ ] Pure Programming
+## Programming
+- [ ] Visual Blocking
+- [ ] How to get started
+- [ ] Code expressiveness
+- [ ] Pure Programming
 
-- Trans
-	- [ ] Three categories (physiology, presentation, traits)
-	- [ ] How'd I know
+## Trans
+- [ ] Three categories (physiology, presentation, traits)
+- [ ] How'd I know
