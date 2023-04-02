@@ -5,10 +5,13 @@ enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
+enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
+enableGitHubEdit: true
+enableMermaid: true
 description:
   Rachael's corner of the internet where I talk about programming, philosophy, mental health, and my hobbies!
 page_title:
