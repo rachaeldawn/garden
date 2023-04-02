@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "2f4a97750f419ca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c664120973db596",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "productivity/process.md",
+            "mode": "source"
+          }
+        },
+        "group": "b056839500fc6a11"
+      },
+      {
+        "id": "0280b09ae412fa25",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "productivity/process.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b056839500fc6a11"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a63ad4b0100af65b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b7e6aaa4002385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e1396fc6118bf62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b87c1de985084293",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e2b23d56c85c05b",
+    "type": "split",
+    "children": [
+      {
+        "id": "700ef5a007f1d1cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bba22e7aad9f8ce3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "productivity/process.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5c664120973db596",
+  "lastOpenFiles": [
+    "productivity/process.md",
+    "philosophy/meaning-of-family.md",
+    "trans/Untitled.md",
+    "trans/i-am-rachael.md",
+    "private/programming/visual-blocking.md",
+    "philosophy/your-true-nature.md",
+    "philosophy/Untitled.md",
+    "private/Topics.md",
+    "programming/visual-blocking.md",
+    "templates/post.md"
+  ]
+}

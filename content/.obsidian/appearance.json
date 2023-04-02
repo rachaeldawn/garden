@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 15,
+  "cssTheme": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "todo"
+  ],
+  "accentColor": "",
+  "monospaceFontFamily": "Fira Code",
+  "textFontFamily": "Inter"
+}
